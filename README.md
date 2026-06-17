@@ -1,8 +1,8 @@
 ![banner](https://raw.githubusercontent.com/paulacastseg/paulacastseg/main/banner.png)
 
 
-- 🌱 Aprendiendo **Python** y **desarrollo web**
-- 🔭 Ahora mismo estudiante de desarrollo de aplicaciones web y formándome en Claude Code
+-  Aprendiendo **Python** y **desarrollo web**
+-  Ahora mismo estudiante de desarrollo de aplicaciones web y formándome en Claude Code
 - 📫 Contacto: pcastillosegrera@gmail.com
 
 ---
