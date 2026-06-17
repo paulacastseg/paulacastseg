@@ -4,7 +4,6 @@ Estudiante de informática aprendiendo a programar.
 
 - 🌱 Aprendiendo **Python** y **desarrollo web**
 - 🔭 Ahora mismo estudiante de desarrollo de aplicaciones web y formandome en claude code
-- 💬 Pregúntame sobre lo que estoy estudiando
 - 📫 Contacto: pcastillosegrera@gmail.com
 
 ---
