@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c8b6ff,50:fdffb6,100:caffbf&height=220&section=header&text=Paula&fontSize=60&fontColor=6b5b95&animation=fadeIn)
+
 ## Hola, soy Paula 👋
 
 Estudiante de informática aprendiendo a programar.
