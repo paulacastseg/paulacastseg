@@ -1,11 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c8b6ff,50:fdffb6,100:caffbf&height=180&section=header)
+![banner](https://raw.githubusercontent.com/paulacastseg/paulacastseg/main/banner.png)
 
-## Hola, soy Paula 👋
-
-Estudiante de informática aprendiendo a programar.
 
 - 🌱 Aprendiendo **Python** y **desarrollo web**
-- 🔭 Ahora mismo estudiante de desarrollo de aplicaciones web y formandome en claude code
+- 🔭 Ahora mismo estudiante de desarrollo de aplicaciones web y formándome en Claude Code
 - 📫 Contacto: pcastillosegrera@gmail.com
 
 ---
